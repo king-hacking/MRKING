@@ -7,9 +7,11 @@
 
 
 apt update && apt upgrade
-pkg install figlet
-pkg install git
-pkg install wget
-chmod +x MRKING.sh
-pkg install toilet
-pkg install lolcat
+pkg install figlet -y
+pkg install git -y
+pkg install wget -y
+chmod +x MRKING.sh -y
+pkg install toilet -y
+pkg install lolcat -y
+pkg install cowsay -y
+pkg install gay -y
