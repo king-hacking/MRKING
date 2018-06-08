@@ -9,7 +9,7 @@ yellow='\e[1;33m'
 
 
 
-
+clear
 
 echo ''
 echo ''
