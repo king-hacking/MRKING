@@ -15,3 +15,4 @@ pkg install toilet -y
 pkg install lolcat -y
 pkg install cowsay -y
 pkg install gay -y
+gem install lolcat
