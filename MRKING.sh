@@ -1514,9 +1514,6 @@ echo
 echo -e $blue "Prease The Enter To Back"
 read enter
 bash MRKING.sh
-else
-clear
-bash MRKING.sh
 fi
 else
 clear
