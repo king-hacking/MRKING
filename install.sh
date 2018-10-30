@@ -48,6 +48,7 @@ pkg install wget -y
 chmod +x MRKING.sh
 pkg install toilet -y
 pkg install lolcat -y
+pkg install ruby -y
 gem install lolcat
 gem install figlet
 pip install wordlist
@@ -64,6 +65,7 @@ apt-get install toilet -y
 chmod +x MRKING.sh
 apt-get install toilet -y
 apt-get install lolcat -y
+apt-get install ruby
 gem install lolcat
 gem install figlet
 pip install wordlist
