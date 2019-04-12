@@ -1,37 +1,6 @@
-# MRKING
+##MRKING
 
-#KING_HACKING
-
-#Whatsapp: 00963937376654
-
-#Telegram: HACKEER1
-
-#Facebook: king.hacking.sy
-
-#Instagram: king1hacking
-
-اداة من برمجتي الخاصة (ابو محمد الجنوبي) الاداة تحتوي على 6 اقسام:
-
-القسم الاول خاص بصنع بايلودات المياسبلويت وفتح جلسة تنصت بسرعة
-
-القسم الثاني خاص بالفيروسات لجميع الانظ
-
-القسم الثالث خاص بتنزيل اهم ادوات الهاكينك
-
-القسم الرابع لصنع ملفات الووردليست
-
-القسم الخامس للتميل من اليوتيوب باستخدام تيرموكس
-
-القسم السادس لصنع ستايل للتيرموكس مع قفل
-
-القسم السابع والاخير لصنع الهاشات
-
-اوامر التثبيت في الاسفل
-
-git clone https://github.com/king-hacking/MRKING.git
-
+```git clone https://github.com/king-hacking/MRKING.git
 cd MRKING
-
 bash install.sh
-
-./MRKING.sh
+./MRKING.sh```
