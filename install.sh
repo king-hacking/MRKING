@@ -1,10 +1,10 @@
 
 #!/bin/bash
-#KiNg-HaCkInG
-#WhatsApp 00963937376654
-#telegram Hackeer1
-#facebook King.hacking.sy
-#instagram king1hacking
+#haker-Elman
+#WhatsApp 00972599236545
+#telegram ahmad_hamida
+#facebook ahmad7amida
+#instagram a7mad7amida
 
 red='\e[1;31m'
 green='\e[1;32m'
